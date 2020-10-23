@@ -1,0 +1,29 @@
+body {
+    background-image: url('../images/aboutMe.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+section {
+    background-color: gray;
+    color:white;
+    margin: 20%;
+    border: solid black 2px;
+}
+
+h2 {
+    margin: 10px;
+    margin-left: 20px;
+}
+
+img {
+    float:left;
+    margin: 0 10px;
+    border: solid black 2px;
+}
+
+p {
+    margin: 10px;
+    line-height: 20px;
+}

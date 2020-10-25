@@ -4,3 +4,8 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+nav {
+    border:  black 1px;
+    border-style: hidden hidden solid hidden;
+}
